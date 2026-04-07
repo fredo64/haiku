@@ -8,11 +8,11 @@ html {
 body {
     margin: 1rem;
     background-color: black;
-    color: whitesmoke;
+    color: palevioletred;
     font-size: 5rem;
     overflow: hidden;
    
-    background: black url("../img/flames.gif");
+    background: black url("../img/hello-kitty-usagif-animation-8.gif");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
